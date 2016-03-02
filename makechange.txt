@@ -1,2 +1,2 @@
 a textfile to add
-made change from other directory
+made another change from other directory 
