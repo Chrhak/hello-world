@@ -1,3 +1,3 @@
 a textfile to add
-made more changes from other directory
+made another change from other directory
 
